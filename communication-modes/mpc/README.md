@@ -1,4 +1,4 @@
-# MPC (Memory Packet communication) mode
+# MPC (Memory Packet Communication) mode
 This communication mode consists on a memory packet communication between host device and RFID reader. This mode can de described on two sides:
 1. RFID reader running in this mode reads the defined transponder information and saves it into its internal memory
 2. Host device can read the information saved on the reader in a later point in time
@@ -35,7 +35,7 @@ POCKETwork should be configured in MPC mode. Now just scan different transponder
 (For software download check [Useful Links](#Useful-links))
 
 ## Useful links
-* https://www.microsensys.de/produkte/rfid-reader/mobile-reader/
+* https://www.microsensys.de/en/products/rfid-readers/mobile-reader/
 * iID® MPC DataLoad [download link](https://www.microsensys.de/downloads/CDContent/Install/iID%c2%ae%20POCKET.zip)
 
 ## Contact

@@ -1,4 +1,4 @@
-# SPC (Script programmed communication) mode
+# SPC (Script Programmed Communication) mode
 This communication mode consist on a script based communication. The script running on the device controls the behavior/functionality of the RFID reader.
 Communication with the host device is also defined by the script.
 
