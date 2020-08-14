@@ -5,10 +5,10 @@ This guide gives an overview of the different libraries available, using the bas
 
 ## Programming languages
 Here is a list of links to the currently supported languages
-* .NET Framework (for Windows desktop development) [see further details](/dotnet-framework)
-* Java (for Android, Windows and UNIX systems in general) [see further details](/java)
-* UWP (Universal Windows Platform, for Windows devices) [see further details](/uwp)
-* Windows native [see further details](/windows-native)
+* .NET Framework (for Windows desktop development) [see further details](dotnet-framework)
+* Java (for Android, Windows and UNIX systems in general) [see further details](java)
+* UWP (Universal Windows Platform, for Windows devices) [see further details](uwp)
+* Windows native [see further details](windows-native)
 
 ## Suggest a new programming language
 We in Micro-Sensys thrive to provide support to each of our customers. Because of this, we are always eager to learn or adapt our samples to the needs of our customers. 

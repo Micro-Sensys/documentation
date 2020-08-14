@@ -5,9 +5,9 @@ This guide gives an overview of the different libraries available, using the des
 
 ## Supported platforms
 Here is a list of the currently supported platforms
-* Android [see further details](/android)
-* UNIX [see further details](/UNIX)
-* Windows [see further details](/windows)
+* Android [see further details](android)
+* UNIX [see further details](UNIX)
+* Windows [see further details](windows)
 
 ## Missing platform?
 We in Micro-Sensys thrive to provide support to each of our customers. Because of this, we are always eager to learn or adapt our samples to the needs of our customers. 
