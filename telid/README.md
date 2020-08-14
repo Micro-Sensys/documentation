@@ -5,13 +5,13 @@ We currenlty offer passive RFID sensor transponders and semi-passive RFID sensor
 * Sensor transponder
     * no battery included (passive)
     * measurement of current value when RFID reader is in reading distance
-    * [see further details](/sensor-transponder)
+    * [see further details](sensor-transponder)
 * Sensor data loggers
     * battery included but only for logging purposes, RFID communication is still passive (semi-passive)
     * RTC included
     * measurement of values and internal storage
     * readout of logged data via RFID
-    * [see further details](/sensor-data-logger)
+    * [see further details](sensor-data-logger)
 
 ## Useful Links
 https://www.microsensys.de/en/products/rfid-sensors/
