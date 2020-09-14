@@ -5,7 +5,7 @@ Here is a list of libraries implemented in and for .NET Framework
     * [API Documentation](https://www.microsensys.de/downloads/DevSamples/Libraries/Windows/iID%20MPC%20-%20.NET%20library/APIDoc_microsensysMPC-1.2.0.0-E.pdf)
     * [download link](https://www.microsensys.de/downloads/DevSamples/Libraries/Windows/iID%20MPC%20-%20.NET%20library/)
     * Sample codes
-        * [samples-mpc_windows](https://github.com/Micro-Sensys/samples-doc_transponders_android) *dotnet-framework* folder
+        * [samples-mpc_windows](https://github.com/Micro-Sensys/samples-mpc_windows) *dotnet-framework* folder
 
 ## Integration steps
 For .NET Framework libraries, just add them as a reference to your project. Once you do this, you can access the builtin capabilities and functionalities

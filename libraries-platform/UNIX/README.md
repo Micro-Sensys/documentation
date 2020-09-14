@@ -9,7 +9,7 @@ Here is a list of libraries that can be used for development of applications tha
         * [samples-doc_telidtransponders_unix](https://github.com/Micro-Sensys/samples-doc_telidtransponders_unix)
         * [samples-spc_unix](https://github.com/Micro-Sensys/samples-spc_unix)
 
-## Integration steps (using Android Studio)
+## Integration steps
 For Java libraries, just add them to your project and be sure to include them (or its build path) in the *build* process. Once you do this, you can access the builtin capabilities and functionalities
 
 ## Contact
