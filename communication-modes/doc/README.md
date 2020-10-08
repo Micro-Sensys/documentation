@@ -5,7 +5,6 @@ The words *direct* and *online* describes this mode as the command is processed 
 ## Characteristics
 * Bi-directional
 * Protocol based
-* TODO
 
 ## Target applications
 This mode is most apropriate for applications where a full host based reader and transponder control is desired. 

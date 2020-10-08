@@ -6,7 +6,6 @@ This communication mode consists on a memory packet communication between host d
 ## Characteristics
 * Asynchronous (information is saved at one point in time, and read from device in another point in time)
 * Protocol based
-* TODO
 
 ## Target applications
 This mode is implemented for data collector applications. The user can collect information from different points without the need of a communication link with a host device. Afterwards the reader can be connected to the host device to download the saved data.
@@ -15,14 +14,13 @@ This mode is implemented for data collector applications. The user can collect i
 This mode is supported only by our *POCKET* models: POCKETwork (also POCKETmini for backwards compatibility)
 
 ## Default mode for
-//TODO DELETE!?!
-This mode is only enabled for some specific applications and is not the default mode for any reader.
+This mode is only supported by *POCKET* models, but still is not the default mode. It is normally customized for some specific applications and tailored for the application needs.
+If you are interested please check the next section of this README. Don't hesitate to contact us if you have any question or if further details/examples are needed.
 
 ## Software examples
 You can test this functionality yourself using our *iID® MPC DataLoad* software.
 If you don't have a POCKETwork already configured in this mode, contact us.
 
-//TODO Describe here? In new README?
 If you have a POCKETwork HF, you can just configure it using our _iID® interface configuration tool_. Please follow this steps:
 1. Connect the POCKETwork to the computer 
 2. Start _iID® interface configuration tool_
