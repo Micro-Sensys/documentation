@@ -7,7 +7,10 @@ Here is a list of what we call "services" that internally handle the communicati
     * [Android download link](https://www.microsensys.de/downloads/DevSamples/Libraries/Android/iIDservice%20-%20RESTful/iID%c2%aeservice_v1.3.apk)
     * [PC download link](https://www.microsensys.de/en/contacts/) *in progress*
     * Sample codes (*in progress*)
-        
+        * [samples-doc_transponders_unix](https://github.com/Micro-Sensys/samples-doc_transponders_unix) *restful* folder
+        * [samples-doc_transponders_windows](https://github.com/Micro-Sensys/samples-doc_telidtransponders_windows) *restful* folder
+        * [samples-spc_unix](https://github.com/Micro-Sensys/samples-spc_unix) *restful* folder 
+        * [samples-spc_windows](https://github.com/Micro-Sensys/samples-spc_windows) *restful* folder 
 * TELID®service (in progress) 
 
 ## Integration steps
