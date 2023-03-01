@@ -14,7 +14,7 @@ Here is a list of libraries that can be used for development of applications tha
         * Sample codes
             * [samples-spc_unix](https://github.com/Micro-Sensys/samples-spc_unix) *dotnet* folder 
 * microsensysRFID (Java) - For communication with RFID reader
-    * [API Documentation](https://www.microsensys.de/downloads/DevSamples/Libraries/Windows/microsensysRFID%20-%20jar%20library/APIDoc%20MicroSensys%20iID3000%20Java%20API%20-%20Windows%20E6_2.pdf)
+    * [API Documentation](https://www.microsensys.de/downloads/DevSamples/Libraries/Windows/microsensysRFID%20-%20jar%20library/APIDoc%20MicroSensys%20iID3000%20Java%20API%20-%20Windows%20E6_6.pdf)
     * [download link](https://www.microsensys.de/downloads/DevSamples/Libraries/Windows/microsensysRFID%20-%20jar%20library/)
     * Sample codes
         * [samples-doc_transponders_windows](https://github.com/Micro-Sensys/samples-doc_transponders_windows) *java* folder
