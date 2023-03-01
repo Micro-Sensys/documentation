@@ -1,7 +1,5 @@
 # Libraries (divided in supported platform)
-//TODO change "libraries-platform" with "samplecodes-platform"??
-
-This guide gives an overview of the different libraries available, using the desired platform as a way to create the following sub-guides. This can help some developers decide which one is the most apropriate for their knowledge
+This guide gives an overview of the different libraries available, using the desired platform as a way to create the following sub-guides. This can help some developers decide which one is the most apropriate for the platform they are targeting.
 
 ## Supported platforms
 Here is a list of the currently supported platforms

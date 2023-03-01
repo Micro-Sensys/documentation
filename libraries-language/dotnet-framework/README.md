@@ -1,7 +1,7 @@
 # .NET Framework libraries
 Here is a list of libraries implemented in and for .NET Framework
 
-* iID® reader library - DocInterfaceControl
+* iID®reader library - DocInterfaceControl
     * [API Documentation](https://www.microsensys.de/downloads/DevSamples/Libraries/Windows/iIDReaderLibrary%20-%20.NET%20library/APIDoc_DocInterfaceControl_1.0_E.pdf)
     * [download link - DOC](https://www.nuget.org/packages/Microsensys.iIDReaderLibrary.DocInterfaceControl/)
     * Sample codes
@@ -9,7 +9,7 @@ Here is a list of libraries implemented in and for .NET Framework
         * [samples-doc_telidtransponders_windows](https://github.com/Micro-Sensys/samples-doc_transponders_windows) *dotnet* folder
         * [samples-doc_transponders_unix](https://github.com/Micro-Sensys/samples-doc_transponders_unix) *dotnet* folder
         * [samples-doc_transponders_windows](https://github.com/Micro-Sensys/samples-doc_telidtransponders_windows) *dotnet* folder
-* iID® reader library - SpcInterfaceControl
+* iID®reader library - SpcInterfaceControl
     * [API Documentation](https://www.microsensys.de/downloads/DevSamples/Libraries/Windows/iIDReaderLibrary%20-%20.NET%20library/APIDoc_SpcInterfaceControl_1.0_E.pdf)
     * [download link - SPC](https://www.nuget.org/packages/Microsensys.iIDReaderLibrary.SpcInterfaceControl/)
     * Sample codes

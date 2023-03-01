@@ -1,4 +1,4 @@
-# Communication modes
+# Reader communication modes
 Micro-Sensys RFID readers support in general three different communication modes: DOC, SPC, MPC.
 The different communication modes allows for many different applications and provides flexiblity for integration on different systems. Here you can find a general overview, for more details please check the documentation or the liked resources
 > Note: Not all devices support all communication modes. Please check the device documentation to be sure your device support the desired mode

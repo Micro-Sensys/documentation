@@ -1,7 +1,7 @@
 # Libraries for Windows
 Here is a list of libraries that can be used for development of applications that will run in Windows systems
 
-* iID® reader library (.NET) - For communication with RFID reader
+* iID®reader library (.NET) - For communication with RFID reader
     * DOC
         * [API Documentation](https://www.microsensys.de/downloads/DevSamples/Libraries/Windows/iIDReaderLibrary%20-%20.NET%20library/APIDoc_DocInterfaceControl_1.0_E.pdf)
         * [download link - DOC](https://www.nuget.org/packages/Microsensys.iIDReaderLibrary.DocInterfaceControl/)
