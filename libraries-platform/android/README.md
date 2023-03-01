@@ -13,6 +13,13 @@ Here is a list of libraries that can be used for Android development
     * [download link](https://www.microsensys.de/downloads/DevSamples/Libraries/Android/TELID300nfc%20-%20aar%20library/)
     * Sample codes
         * [samples-doc_telidloggers_android](https://github.com/Micro-Sensys/samples-doc_telidloggers_android)
+*iID®service (RESTful) - For communication with RFID reader
+    * [API Documentation](https://www.microsensys.de/downloads/DevSamples/Libraries/Windows/iIDservice%20-%20RESTful/APIDoc_iIDservice_1.3_E.pdf)
+    * [Android PlayStore link](https://play.google.com/store/apps/details?id=de.microsensys.iidservice)
+    * [Android download link](https://www.microsensys.de/downloads/DevSamples/Libraries/Android/iIDservice%20-%20RESTful/iID%c2%aeservice_v1.3.apk)
+    * [PC download link](https://www.microsensys.de/en/contacts/) *in progress*
+    * Sample codes (*in progress*)
+
 
 ## Integration steps (using Android Studio)
 Open the project where you wish to add the library.
@@ -23,6 +30,8 @@ Open the project where you wish to add the library.
 5. Select the module for your application, and under *All Dependencies* press the **+** button, then select *Module Dependency* and make sure the library module is selected.
 
 Once the library module is selected as a dependency for your application, you can access the builtin capabilities and functionalities
+
+For RESTful services, the working process must be running in the host device where the RFID reader is connected.
 
 ## Contact
 * For coding questions or questions about this sample code, you can use [support@microsensys.de](mailto:support@microsensys.de)

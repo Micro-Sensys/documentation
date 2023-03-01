@@ -14,7 +14,7 @@ Here is a list of what we call "services" that internally handle the communicati
 * TELID®service (in progress) 
 
 ## Integration steps
-Before being able to work with any of our RESTful services, the working process must be running in the host device where the RFID reader is connected.
+Before being able to work with any of our RESTful services, the *iID®service* or *TELID®service* working process must be running in the host device where the RFID reader is connected.
 Once running just call any of the RESTful operations provided and an answer should come back. As long as the service process is running, you can access the builtin capabilities and functionalities
 
 ## Contact

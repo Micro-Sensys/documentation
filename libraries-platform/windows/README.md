@@ -20,6 +20,14 @@ Here is a list of libraries that can be used for development of applications tha
         * [samples-doc_transponders_windows](https://github.com/Micro-Sensys/samples-doc_transponders_windows) *java* folder
         * [samples-doc_telidtransponders_windows](https://github.com/Micro-Sensys/samples-doc_telidtransponders_windows) *java* folder
         * [samples-spc_windows](https://github.com/Micro-Sensys/samples-spc_windows) *java* folder
+* iID®service (RESTful) - For communication with RFID reader
+    * [API Documentation](https://www.microsensys.de/downloads/DevSamples/Libraries/Windows/iIDservice%20-%20RESTful/APIDoc_iIDservice_1.3_E.pdf)
+    * [Android PlayStore link](https://play.google.com/store/apps/details?id=de.microsensys.iidservice)
+    * [Android download link](https://www.microsensys.de/downloads/DevSamples/Libraries/Android/iIDservice%20-%20RESTful/iID%c2%aeservice_v1.3.apk)
+    * [PC download link](https://www.microsensys.de/en/contacts/) *in progress*
+    * Sample codes (*in progress*)
+        * [samples-doc_transponders_windows](https://github.com/Micro-Sensys/samples-doc_telidtransponders_windows) *restful* folder
+        * [samples-spc_windows](https://github.com/Micro-Sensys/samples-spc_windows) *restful* folder 
 * iID® MPC library (.NET Framework) - For communication with RFID reader in MPC mode
     * [API Documentation](https://www.microsensys.de/downloads/DevSamples/Libraries/Windows/iID%20MPC%20-%20.NET%20library/APIDoc_microsensysMPC-1.2.0.0-E.pdf)
     * [download link](https://www.microsensys.de/downloads/DevSamples/Libraries/Windows/iID%20MPC%20-%20.NET%20library/)
@@ -40,6 +48,11 @@ Here is a list of libraries that can be used for development of applications tha
         * [samples-doc_telidloggers_windows](https://github.com/Micro-Sensys/samples-doc_telidloggers_windows)
 
 ## Integration steps
+For .NET Framework libraries, just add them as a reference to your project. Once you do this, you can access the builtin capabilities and functionalities.
+
+For Java libraries, just add them to your project and be sure to include them (or its build path) in the *build* process. Once you do this, you can access the builtin capabilities and functionalities
+
+For RESTful services, the working process must be running in the host device where the RFID reader is connected.
 
 ## Contact
 * For coding questions or questions about this sample code, you can use [support@microsensys.de](mailto:support@microsensys.de)
