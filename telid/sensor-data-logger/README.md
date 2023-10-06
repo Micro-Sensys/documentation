@@ -26,7 +26,7 @@ Currently we offer the following libraries if you wish to integrate the function
 
 ## Useful Links
 * https://www.microsensys.de/en/products/rfid-sensors/rfid-sensor-datenlogger/
-* https://www.microsensys.de/en/solutions/process-monitoring/
+* https://www.microsensys.de/en/solutions/temperature-monitoring/
 * https://www.microsensys.de/en/applications/
 
 ## Contact

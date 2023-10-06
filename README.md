@@ -10,11 +10,11 @@ Description of the available communication modes.
 > [Link](communication-modes)
 
 ### Libraries language
-Index of available libraries, using the programming language
+Index of available libraries, listed using the programming language or used framework
 > [Link](libraries-language)
 
 ### Libraries platform
-Index of available libraries, using the target platform (operating system)
+Index of available libraries, listed using the target platform (operating system)
 > [Link](libraries-platform)
 
 ### TELID®

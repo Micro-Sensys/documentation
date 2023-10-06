@@ -21,19 +21,19 @@ Currently we offer the following libraries if you wish to integrate the function
         * Sample codes
             * [samples-doc_telidtransponders_windows](https://github.com/Micro-Sensys/samples-doc_telidtransponders_windows) *native* folder
     * microsensysRFID (Java)
-        * [API Documentation](https://www.microsensys.de/downloads/DevSamples/Libraries/Windows/microsensysRFID%20-%20jar%20library/APIDoc%20MicroSensys%20iID3000%20Java%20API%20-%20Windows%20E6_2.pdf)
+        * [API Documentation](https://www.microsensys.de/downloads/DevSamples/Libraries/Windows/microsensysRFID%20-%20jar%20library/APIDoc%20MicroSensys%20iID3000%20Java%20API%20-%20Windows%20E6_6.pdf)
         * [download link](https://www.microsensys.de/downloads/DevSamples/Libraries/Windows/microsensysRFID%20-%20jar%20library/)
         * Sample codes
             * [samples-doc_telidtransponders_windows](https://github.com/Micro-Sensys/samples-doc_telidtransponders_windows) *java* folder
 * For UNIX systems
     * microsensysRFID (Java)
-        * [API Documentation](https://www.microsensys.de/downloads/DevSamples/Libraries/UNIX/microsensysRFID%20-%20jar%20library/APIDoc%20MicroSensys%20iID3000%20Java%20API%20-%20UNIX%20E6_2.pdf)
+        * [API Documentation](https://www.microsensys.de/downloads/DevSamples/Libraries/UNIX/microsensysRFID%20-%20jar%20library/APIDoc%20MicroSensys%20iID3000%20Java%20API%20-%20UNIX%20E6_6.pdf)
         * [download link](https://www.microsensys.de/downloads/DevSamples/Libraries/UNIX/microsensysRFID%20-%20jar%20library/)
         * Sample codes
             * [samples-doc_telidtransponders_unix](https://github.com/Micro-Sensys/samples-doc_telidtransponders_unix)
 * For Android
     * microsensysRFID (Java)
-        * [API Documentation](https://www.microsensys.de/downloads/DevSamples/Libraries/Android/microsensysRFID%20-%20aar%20library/APIDoc%20MicroSensys%20iID3000%20Java%20API%20-%20Android%20E6_2.pdf)
+        * [API Documentation](https://www.microsensys.de/downloads/DevSamples/Libraries/Android/microsensysRFID%20-%20aar%20library/APIDoc%20MicroSensys%20iID3000%20Java%20API%20-%20Android%20E6_10.pdf)
         * [download link](https://www.microsensys.de/downloads/DevSamples/Libraries/Android/microsensysRFID%20-%20aar%20library/)
         * Sample codes
             * [samples-doc_telidtransponders_android](https://github.com/Micro-Sensys/samples-doc_telidtransponders_android)
