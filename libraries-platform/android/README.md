@@ -2,7 +2,7 @@
 Here is a list of libraries that can be used for Android development
 
 * microsensysRFID - For communication with RFID reader
-    * [API Documentation](https://www.microsensys.de/downloads/DevSamples/Libraries/Android/microsensysRFID%20-%20aar%20library/APIDoc%20MicroSensys%20iID3000%20Java%20API%20-%20Android%20E6_10.pdf)
+    * [API Documentation](https://www.microsensys.de/downloads/DevSamples/Libraries/Android/microsensysRFID%20-%20aar%20library/APIDoc%20MicroSensys%20iID3000%20Java%20API%20-%20Android%20E6_11.pdf)
     * [download link](https://www.microsensys.de/downloads/DevSamples/Libraries/Android/microsensysRFID%20-%20aar%20library/)
     * Sample codes
         * [samples-doc_transponders_android](https://github.com/Micro-Sensys/samples-doc_transponders_android)
@@ -13,7 +13,7 @@ Here is a list of libraries that can be used for Android development
     * [download link](https://www.microsensys.de/downloads/DevSamples/Libraries/Android/TELID300nfc%20-%20aar%20library/)
     * Sample codes
         * [samples-doc_telidloggers_android](https://github.com/Micro-Sensys/samples-doc_telidloggers_android)
-*iID®service (RESTful) - For communication with RFID reader
+* iID®service (RESTful) - For communication with RFID reader
     * [API Documentation](https://www.microsensys.de/downloads/DevSamples/Libraries/Windows/iIDservice%20-%20RESTful/APIDoc_iIDservice_1.3_E.pdf)
     * [Android PlayStore link](https://play.google.com/store/apps/details?id=de.microsensys.iidservice)
     * [Android download link](https://www.microsensys.de/downloads/DevSamples/Libraries/Android/iIDservice%20-%20RESTful/iID%c2%aeservice_v1.3.apk)

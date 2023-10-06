@@ -5,7 +5,7 @@ These libraries can be divided on two depending on the desired platform for the 
 
 ## Android java library
 * microsensysRFID - For communication with RFID reader
-    * [API Documentation](https://www.microsensys.de/downloads/DevSamples/Libraries/Android/microsensysRFID%20-%20aar%20library/APIDoc%20MicroSensys%20iID3000%20Java%20API%20-%20Android%20E6_10.pdf)
+    * [API Documentation](https://www.microsensys.de/downloads/DevSamples/Libraries/Android/microsensysRFID%20-%20aar%20library/APIDoc%20MicroSensys%20iID3000%20Java%20API%20-%20Android%20E6_11.pdf)
     * [download link](https://www.microsensys.de/downloads/DevSamples/Libraries/Android/microsensysRFID%20-%20aar%20library/)
     * Sample codes
         * [samples-doc_transponders_android](https://github.com/Micro-Sensys/samples-doc_transponders_android)
