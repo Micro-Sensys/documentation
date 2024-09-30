@@ -23,7 +23,7 @@ Here is a list of libraries that can be used for development of applications tha
 * iID®service (RESTful) - For communication with RFID reader
     * [API Documentation](https://www.microsensys.de/downloads/DevSamples/Libraries/Windows/iIDservice%20-%20RESTful/APIDoc_iIDservice_1.3_E.pdf)
     * [Android PlayStore link](https://play.google.com/store/apps/details?id=de.microsensys.iidservice)
-    * [Android download link](https://www.microsensys.de/downloads/DevSamples/Libraries/Android/iIDservice%20-%20RESTful/iID%c2%aeservice_v1.3.apk)
+    * [Android download link](https://www.microsensys.de/downloads/DevSamples/Libraries/Android/iIDservice%20-%20RESTful/iID%c2%aeservice_v1.3.1.apk)
     * [PC download link](https://www.microsensys.de/en/contacts/) *in progress*
     * Sample codes (*in progress*)
         * [samples-doc_transponders_windows](https://github.com/Micro-Sensys/samples-doc_telidtransponders_windows) *restful* folder
@@ -36,7 +36,7 @@ Here is a list of libraries that can be used for development of applications tha
 
 ### Obsolete - no longer supported
 * iID® driver engine (Windows native) - For communication with RFID reader
-    * [API Documentation](https://www.microsensys.de/downloads/DevSamples/Libraries/Windows/iID%20driver%20engine%20-%20Native%20driver/APIDoc_iIDDriver3000PRO_1059_E.pdf)
+    * [API Documentation](https://www.microsensys.de/downloads/DevSamples/Libraries/Windows/iID%20driver%20engine%20-%20Native%20driver/APIDoc_iIDDriver3000PRO_105A_E.pdf)
     * [download link](https://www.microsensys.de/downloads/DevSamples/Libraries/Windows/iID%20driver%20engine%20-%20Native%20driver/)
     * Sample codes
         * [samples-doc_transponders_windows](https://github.com/Micro-Sensys/samples-doc_transponders_windows) *native* folder
