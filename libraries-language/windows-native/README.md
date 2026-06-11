@@ -6,16 +6,16 @@ Depending on the functionality implemented there are two libraries
 
 ## iID® driver engine
 For communication with RFID reader
-* [API Documentation](https://www.microsensys.de/downloads/DevSamples/Libraries/Windows/iID%20driver%20engine%20-%20Native%20driver/APIDoc_iIDDriver3000PRO_1059_E.pdf)
-* [download link](https://www.microsensys.de/downloads/DevSamples/Libraries/Windows/iID%20driver%20engine%20-%20Native%20driver/)
+* [API Documentation](https://microsensys.de/dlfiles/DevSamples/Libraries/Windows/iID%20driver%20engine%20-%20Native%20driver/APIDoc_iIDDriver3000PRO_105B_E.pdf)
+* [download link](https://microsensys.de/dlfiles/DevSamples/Libraries/Windows/iID%20driver%20engine%20-%20Native%20driver/)
 * Sample codes
     * [samples-doc_transponders_windows](https://github.com/Micro-Sensys/samples-doc_transponders_windows) *native* folder
     * [samples-doc_telidtransponders_windows](https://github.com/Micro-Sensys/samples-doc_telidtransponders_windows) *native* folder
 
 ## TELID3xx Native
 For interacting (read, programm, ...) TELID®300 data loggers (currently supported TELID®311 and TELID®343)
-* [API Documentation](https://www.microsensys.de/downloads/DevSamples/Libraries/Windows/TELID300%20-%20native%20library/APIDoc_TELID3xx_native_driver_TP_16_E.pdf)
-* [download link](https://www.microsensys.de/downloads/DevSamples/Libraries/Windows/TELID300%20-%20native%20library/)
+* [API Documentation](https://microsensys.de/dlfiles/DevSamples/Libraries/Windows/TELID300%20-%20native%20library/APIDoc_TELID3xx_native_driver_TP_16_E.pdf)
+* [download link](https://microsensys.de/dlfiles/DevSamples/Libraries/Windows/TELID300%20-%20native%20library/)
 * Sample codes
     * [samples-doc_telidloggers_windows](https://github.com/Micro-Sensys/samples-doc_telidloggers_windows)
 

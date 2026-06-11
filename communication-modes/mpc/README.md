@@ -34,7 +34,7 @@ POCKETwork should be configured in MPC mode. Now just scan different transponder
 
 ## Useful links
 * https://www.microsensys.de/en/products/rfid-readers/mobile-reader/
-* iID® MPC DataLoad [download link](https://www.microsensys.de/downloads/CDContent/Install/iID%c2%ae%20POCKET.zip)
+* iID® MPC DataLoad [download link](https://microsensys.de/dlfiles/CDContent/Install/iID%c2%ae%20POCKET.zip)
 
 ## Contact
 * For coding questions or questions about this sample code, you can use [support@microsensys.de](mailto:support@microsensys.de)

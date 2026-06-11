@@ -19,9 +19,9 @@ All RFID readers with only a communication interface and without trigger functio
 
 ## Software examples
 Most of free available software provided by Micro-Sensys uses this communication mode
-* iID® DEMOsoft [download link](https://www.microsensys.de/downloads/SW_Install/iID%c2%aeDEMOsoft2020/Setup%20iID%20DEMOsoft%202020.exe)
+* iID® DEMOsoft [download link](https://microsensys.de/dlfiles/SW_Install/iID%c2%aeDEMOsoft2020/Setup%20iID%20DEMOsoft%202020.exe)
 	* Used to demonstrate scan, read/write and sensor functionality
-* iID® interface configuration tool [download link](https://www.microsensys.de/downloads/SW_Install/iID%c2%aeDEMOsoft2020/Setup%20iID%20DEMOsoft%202020.exe)
+* iID® interface configuration tool [download link](https://microsensys.de/dlfiles/SW_Install/iID%c2%aeDEMOsoft2020/Setup%20iID%20DEMOsoft%202020.exe)
 	* Used to configure reader parameters
 	
 ## Contact

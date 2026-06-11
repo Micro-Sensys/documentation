@@ -2,9 +2,9 @@
 Here is a list of what we call "services" that internally handle the communication with our RFID readers and provide for the developer a RESTful communication 
 
 * iID®service - DOC and SPC
-    * [API Documentation](https://www.microsensys.de/downloads/DevSamples/Libraries/Windows/iIDservice%20-%20RESTful/APIDoc_iIDservice_1.3_E.pdf)
+    * [API Documentation](https://microsensys.de/dlfiles/DevSamples/Libraries/Windows/iIDservice%20-%20RESTful/APIDoc_iIDservice_1.3_E.pdf)
     * [Android PlayStore link](https://play.google.com/store/apps/details?id=de.microsensys.iidservice)
-    * [Android download link](https://www.microsensys.de/downloads/DevSamples/Libraries/Android/iIDservice%20-%20RESTful/iID%c2%aeservice_v1.3.apk)
+    * [Android download link](https://microsensys.de/dlfiles/DevSamples/Libraries/Android/iIDservice%20-%20RESTful/iID%c2%aeservice_v1.3.apk)
     * [PC download link](https://www.microsensys.de/en/contacts/) *in progress*
     * Sample codes (*in progress*)
         * [samples-doc_transponders_unix](https://github.com/Micro-Sensys/samples-doc_transponders_unix) *restful* folder
