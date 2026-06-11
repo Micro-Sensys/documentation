@@ -14,13 +14,13 @@ For this product line, we offer a software solution called **TELID®soft** to ha
 ## Library support (for integration in your software)
 Currently we offer the following libraries if you wish to integrate the functionality in your own software.
 * TELID3xx Native - For TELID®300 data loggers integration on Windows using one of our RFID readers (currently supported TELID®311 and TELID®343)
-    * [API Documentation](https://www.microsensys.de/downloads/DevSamples/Libraries/Windows/TELID300%20-%20native%20library/APIDoc_TELID3xx_native_driver_TP_16_E.pdf)
-    * [download link](https://www.microsensys.de/downloads/DevSamples/Libraries/Windows/TELID300%20-%20native%20library/)
+    * [API Documentation](https://microsensys.de/dlfiles/DevSamples/Libraries/Windows/TELID300%20-%20native%20library/APIDoc_TELID3xx_native_driver_TP_16_E.pdf)
+    * [download link](https://microsensys.de/dlfiles/DevSamples/Libraries/Windows/TELID300%20-%20native%20library/)
     * Sample codes
         * [samples-doc_telidloggers_windows](https://github.com/Micro-Sensys/samples-doc_telidloggers_windows)
 * telid300interface - For TELID®300.nfc dataloger integration on Android using smartphone integrated NFC
-    * [API Documentation](https://www.microsensys.de/downloads/DevSamples/Libraries/Android/TELID300nfc%20-%20aar%20library/APIDoc%20TELID300nfc%20%20Java%20API%20-%20Android%20E11.pdf)
-    * [download link](https://www.microsensys.de/downloads/DevSamples/Libraries/Android/TELID300nfc%20-%20aar%20library/)
+    * [API Documentation](https://microsensys.de/dlfiles/DevSamples/Libraries/Android/TELID300nfc%20-%20aar%20library/APIDoc%20TELID300nfc%20%20Java%20API%20-%20Android%20E11.pdf)
+    * [download link](https://microsensys.de/dlfiles/DevSamples/Libraries/Android/TELID300nfc%20-%20aar%20library/)
     * Sample codes
         * [samples-doc_telidloggers_android](https://github.com/Micro-Sensys/samples-doc_telidloggers_android)
 

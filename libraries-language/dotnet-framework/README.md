@@ -2,7 +2,7 @@
 Here is a list of libraries implemented in and for .NET Framework
 
 * iID®reader library - DocInterfaceControl
-    * [API Documentation](https://www.microsensys.de/downloads/DevSamples/Libraries/Windows/iIDReaderLibrary%20-%20.NET%20library/APIDoc_DocInterfaceControl_1.0_E.pdf)
+    * [API Documentation](https://microsensys.de/dlfiles/DevSamples/Libraries/Windows/iIDReaderLibrary%20-%20.NET%20library/APIDoc_DocInterfaceControl_2.0_E.pdf)
     * [download link - DOC](https://www.nuget.org/packages/Microsensys.iIDReaderLibrary.DocInterfaceControl/)
     * Sample codes
         * [samples-doc_telidtransponders_unix](https://github.com/Micro-Sensys/samples-doc_telidtransponders_unix) *dotnet* folder
@@ -10,14 +10,14 @@ Here is a list of libraries implemented in and for .NET Framework
         * [samples-doc_transponders_unix](https://github.com/Micro-Sensys/samples-doc_transponders_unix) *dotnet* folder
         * [samples-doc_transponders_windows](https://github.com/Micro-Sensys/samples-doc_telidtransponders_windows) *dotnet* folder
 * iID®reader library - SpcInterfaceControl
-    * [API Documentation](https://www.microsensys.de/downloads/DevSamples/Libraries/Windows/iIDReaderLibrary%20-%20.NET%20library/APIDoc_SpcInterfaceControl_1.0_E.pdf)
+    * [API Documentation](https://microsensys.de/dlfiles/DevSamples/Libraries/Windows/iIDReaderLibrary%20-%20.NET%20library/APIDoc_SpcInterfaceControl_2.0_E.pdf)
     * [download link - SPC](https://www.nuget.org/packages/Microsensys.iIDReaderLibrary.SpcInterfaceControl/)
     * Sample codes
         * [samples-spc_unix](https://github.com/Micro-Sensys/samples-spc_unix) *dotnet* folder 
         * [samples-spc_windows](https://github.com/Micro-Sensys/samples-spc_windows) *dotnet* folder 
 * iID® MPC library 
-    * [API Documentation](https://www.microsensys.de/downloads/DevSamples/Libraries/Windows/iID%20MPC%20-%20.NET%20library/APIDoc_microsensysMPC-1.2.0.0-E.pdf)
-    * [download link](https://www.microsensys.de/downloads/DevSamples/Libraries/Windows/iID%20MPC%20-%20.NET%20library/)
+    * [API Documentation](https://microsensys.de/dlfiles/DevSamples/Libraries/Windows/iID%20MPC%20-%20.NET%20library/APIDoc_microsensysMPC-1.2.0.0-E.pdf)
+    * [download link](https://microsensys.de/dlfiles/DevSamples/Libraries/Windows/iID%20MPC%20-%20.NET%20library/)
     * Sample codes
         * [samples-mpc_windows](https://github.com/Micro-Sensys/samples-mpc_windows) *dotnet-framework* folder
 
